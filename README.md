@@ -1,8 +1,8 @@
 <!-- Centered Heading with GIF -->
 <h1 align="center">Hi 👋, I'm Lerisa Desai</h1>
 <p align="center">
-  <img src="typewriter.gif" alt="Typewriter Intro" width="400"/>
-</p>
+<!--   <img src="typewriter.gif" alt="Typewriter Intro" width="400"/>
+</p> -->
 
 <h3 align="center">💻 Driven by a passion for web development and Android applications.</h3>
 
