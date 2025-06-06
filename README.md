@@ -51,8 +51,4 @@
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
----
 
-> ⭐ Pro tip: To **convert your `.mp4` to `.gif`**, go to [ezgif.com](https://ezgif.com/video-to-gif), upload your file, and download the `.gif` to use in your repo.
-
-Would you like me to extract a frame or loop and create the `.gif` from the file you uploaded?
