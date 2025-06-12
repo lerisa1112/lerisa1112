@@ -8,10 +8,10 @@
 
 ---
 
-### 🌱 About Me
+### 👤 About Me
 
-- 🌱 I'm actively learning **Data Structures and Algorithms**, and building a solid base in **Data Science** (JS, DSA, Python, RAG).
-- 👯 I’m looking to collaborate on open-source projects, innovative tech solutions, and data-driven apps. (Target: **GSoC** 🏆)
+- 🌱 I'm actively learning **Data Structures and Algorithms**, and building a solid base in **Data Science** (DSA, RAG).
+- 👯 I’m looking to collaborate on open-source projects, innovative tech solutions, and data-driven apps. 
 - 📫 Reach me at: **lerisadesai@gmail.com**
 
 ---
