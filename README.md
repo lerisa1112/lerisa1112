@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Lerisa Desai]!
+# 👋 Hii, I'm Lerisa Desai!
 
 💻 A passionate Web Developer | ☁️ Cloud & Data Science Enthusiast | 🤖 AI & DSA Explorer
 🌍 I love building meaningful tech that solves real-world problems.
@@ -60,8 +60,9 @@
 
 ## 🏆 Competitive Programming Profiles
 
-![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white)
-![[LeetCode](https://leetcode.com/u/MALng3dCKr/)](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/d24amti4s0m/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MALng3dCKr/)
+
 
 
 ---
