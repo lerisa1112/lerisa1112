@@ -54,7 +54,7 @@
 ## 📬 Reach Me At
 
 - 📧 Email: [lerisadesai@gmail.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [desai-lerisa-b58447259](https://linkedin.com/in/your-linkedin)
+- 💼 LinkedIn: [DESAI LERISA](https://linkedin.com/in/your-linkedin)
 
 ---
 
