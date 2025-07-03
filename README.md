@@ -1,19 +1,18 @@
-# 👋 Hi there, I'm Lerisa Desai!
+# 👋 Hi there, I'm [Lerisa Desai]!
 
-💻 A passionate Web Developer | ☁️ Cloud Enthusiast | 🤖 AI & DSA Explorer  
+💻 A passionate Web Developer | ☁️ Cloud & Data Science Enthusiast | 🤖 AI & DSA Explorer
 🌍 I love building meaningful tech that solves real-world problems.
 
-
-
-## 🧠 About Me
+---
 
 ## 🧠 About Me
+
 
 - 🎓 I'm a 3rd-year Computer Science student with a strong interest in **Frontend Development**, **Cloud Computing**, **AI**, and **Data Science**.
 - 🚀 Currently learning: `React.js`, `Java DSA`, `Cloud Infrastructure`, and `Python for Data Science`
 - 🔍 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
 
-
+---
 
 ## 💻 Technical Skills
 
@@ -50,33 +49,22 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-
-
-## 📈 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark)
-
 
 
 ## 📬 Reach Me At
 
-- 📧 Email: [lerisadesai@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/desai-lerisa-b58447259/]
+- 📧 Email: [lerisadesai@gmail.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [Desai Lerisa](https://linkedin.com/in/your-linkedin)
 
-
+---
 
 ## 🏆 Competitive Programming Profiles
 
-![GeeksForGeeks](https://www.geeksforgeeks.org/user/d24amti4s0m/)
-![LeetCode](https://leetcode.com/u/MALng3dCKr/)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white)
+![[LeetCode](https://leetcode.com/u/MALng3dCKr/)](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
 
 
+---
 
 ## ✨ Fun Fact
 
