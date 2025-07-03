@@ -1,54 +1,83 @@
-<!-- Centered Heading with GIF -->
-<h1 align="center">Hi 👋, I'm Lerisa Desai</h1>
-<p align="center">
-<!--   <img src="typewriter.gif" alt="Typewriter Intro" width="400"/>
-</p> -->
+# 👋 Hi there, I'm Lerisa Desai!
 
-<h3 align="center">💻 Driven by a passion for web development and Android applications.</h3>
+💻 A passionate Web Developer | ☁️ Cloud Enthusiast | 🤖 AI & DSA Explorer  
+🌍 I love building meaningful tech that solves real-world problems.
+
+
+
+## 🧠 About Me
+
+## 🧠 About Me
+
+- 🎓 I'm a 3rd-year Computer Science student with a strong interest in **Frontend Development**, **Cloud Computing**, **AI**, and **Data Science**.
+- 🚀 Currently learning: `React.js`, `Java DSA`, `Cloud Infrastructure`, and `Python for Data Science`
+- 🔍 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
+
+
+
+## 💻 Technical Skills
+
+### 🚀 Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🔧 Backend Development
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### 🗃️ Databases
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Cloud Concepts](https://img.shields.io/badge/-Cloud_Concepts-007ACC?style=flat)
+![Infra Basics](https://img.shields.io/badge/-Infra_Basics-44CC11?style=flat)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Chrome DevTools](https://img.shields.io/badge/-DevTools-FABC05?style=flat&logo=google-chrome)
 
 ---
 
-### 👤 About Me
+## 📊 GitHub Stats
 
-- 🌱 I'm actively learning **Data Structures and Algorithms**, and building a solid base in **Data Science** (DSA, RAG).
-- 👯 I’m looking to collaborate on open-source projects, innovative tech solutions, and data-driven apps. 
-- 📫 Reach me at: **lerisadesai@gmail.com**
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://dev.to/lerisadesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/lerisa343520020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/desai-lerisa-b58447259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/lerisa1112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/lerisa11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/d24amti4s0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
 
+
+## 📈 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+
+
+## 📬 Reach Me At
+
+- 📧 Email: [lerisadesai@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/desai-lerisa-b58447259/]
+
+
+
+## 🏆 Competitive Programming Profiles
+
+![GeeksForGeeks](https://www.geeksforgeeks.org/user/d24amti4s0m/)
+![LeetCode](https://leetcode.com/u/MALng3dCKr/)
+
+
+
+## ✨ Fun Fact
+
+> ☕ I love turning **coffee into code**, solving logic puzzles, and building things that make people go "**WOW**" 🌟
