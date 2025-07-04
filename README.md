@@ -64,16 +64,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MALng3dCKr/)
 
 
-### 🚀 Current Tech Stack
-
-- 🧠 Language: Python 3.13  
-- 📦 Libraries: Scikit-learn, Pandas, Joblib  
-- 🧪 ML Model: Multinomial Naive Bayes  
-- 🛠️ Tools: Jupyter Notebook, VS Code  
-- 📁 Dataset: [SMS Spam Collection](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
-
-
-
 ---
 
 ## ✨ Fun Fact
