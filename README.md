@@ -66,6 +66,29 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lerisa1112&show_icons=true&theme=tokyonight&count_private=true&hide=issues&custom_title=lerisa1112's%20GitHub%20Stats" width="48%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lerisa1112&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerisa1112&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
+
+</div>
+
+---
+
+## 🗓 GitHub Contribution Graph
+
+[![lerisa1112's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lerisa1112&theme=tokyo-night)](https://github.com/lerisa1112)
+
+---
+
 ## ✨ Fun Fact
 
 > ☕ I love turning **coffee into code**, solving logic puzzles, and building things that make people go "**WOW**" 🌟
