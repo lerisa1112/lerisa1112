@@ -9,7 +9,7 @@
 
 
 - 🎓 I'm a 3rd-year Computer Science student with a strong interest in **Frontend Development**, **Cloud Computing**, **AI**, and **Data Science**.
-- 🚀 Currently learning: `React.js`, `Java DSA`, `Cloud Infrastructure`, and `Python for Data Science`
+🚀 Currently Learning: DSA, Cloud Infrastructure, Python for Data Science, RAG (Retrieval-Augmented Generation), and Ruby
 - 🔍 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
 
 ---
