@@ -1,7 +1,7 @@
 <!-- ✨ Animated Typing Header (Multi-Line) -->
 <p align="center">
   <a href="https://github.com/lerisa1112">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Lerisa+Desai!;Web+Developer+%7C+Cloud+%7C+AI+%7C+DSA+Explorer;Love+to+Build+Creative+%2B+Impactful+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+Welcome+to+My+World!;Tech+Explorer+%7C+Developer+%7C+Problem+Solver;Building+Innovation+Through+Code+%26+Creativity" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,9 +14,12 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm a 3rd-year Computer Science student with a strong interest in **Frontend Development**, **Cloud Computing**, **AI**, and **Data Science**.
-- 🚀 Currently Learning: `DSA`, `Cloud Infrastructure`, `Python for Data Science`, `RAG (Retrieval-Augmented Generation)`, and `Ruby`  
-- 🔍 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
+- 🎓 Computer Engineering Student with a passion for solving real-world problems.
+- 💡 Fascinated by AI, Cloud Computing, and Full-Stack Development.
+- 🚀 Currently exploring: `Generative AI`, `MERN Stack`, `DevOps`, `IoT`, and `Smart Systems`.
+- 🎯 Building smart city, AR/VR, IoT + Blockchain-powered solutions and Hackathon-ready prototypes.
+- 🤝 Actively participating in open source and campus tech events.
+- 🏆 Winner at multiple national-level hackathons.
 
 ---
 
@@ -75,4 +78,4 @@
 
 ## ✨ Fun Fact
 
-> ☕ I love turning **coffee into code**, solving logic puzzles, and building things that make people go "**WOW**" 🌟
+> 💬 “Creativity is intelligence having fun.” — I love turning ideas into projects using code, AI, and innovation 💡
