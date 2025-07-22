@@ -1,9 +1,11 @@
 <!-- Typing Animation Header -->
+<!-- ✨ Typing Animation Header with Pool & Jubilee Colors -->
 <p align="center">
   <a href="https://github.com/lerisa1112">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hii%2C+I'm+Lerisa+Desai!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6EE7B7&vCenter=true&center=true&width=600&lines=%F0%9F%91%8B+Hii%2C+I'm+Lerisa+Desai!;🌈+Frontend+%7C+Cloud+%7C+AI+Explorer;🎯+Problem+Solver+%26+Hackathon+Lover" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
