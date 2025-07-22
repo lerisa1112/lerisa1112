@@ -1,33 +1,52 @@
-<!-- ✨ Animated Typing Header (Multi-Line) -->
+<!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/lerisa1112">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+Welcome+to+My+World!;Tech+Explorer+%7C+Developer+%7C+Problem+Solver;Building+Innovation+Through+Code+%26+Creativity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hii%2C+I'm+Lerisa+Desai!" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- 👁️ Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lerisa1112&label=Profile+Views&color=blueviolet&style=flat" alt="lerisa1112" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering Student with a passion for solving real-world problems.
-- 💡 Fascinated by AI, Cloud Computing, and Full-Stack Development.
-- 🚀 Currently exploring: `Generative AI`, `MERN Stack`, `DevOps`, `IoT`, and `Smart Systems`.
-- 🎯 Building smart city, AR/VR, IoT + Blockchain-powered solutions and Hackathon-ready prototypes.
-- 🤝 Actively participating in open source and campus tech events.
-- 🏆 Winner at multiple national-level hackathons.
+- 🎓 I'm a 3rd-year Computer Science student with a strong interest in **Frontend Development**, **Cloud Computing**, **AI**, and **Data Science**.
+- 🚀 Currently Learning: `DSA`, `Cloud Infrastructure`, `Python for Data Science`, `RAG (Retrieval-Augmented Generation)`, and `Ruby`  
+- 🔍 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,c,cpp,php,android,mysql,git,github,aws,vscode&perline=8" />
-</p>
+### 🚀 Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🔧 Backend Development
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### 🗃️ Databases
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Cloud Concepts](https://img.shields.io/badge/-Cloud_Concepts-007ACC?style=flat)
+![Infra Basics](https://img.shields.io/badge/-Infra_Basics-44CC11?style=flat)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Chrome DevTools](https://img.shields.io/badge/-DevTools-FABC05?style=flat&logo=google-chrome)
 
 ---
 
@@ -42,14 +61,6 @@
 
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/d24amti4s0m/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MALng3dCKr/)
-
----
-
-## ✨ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lerisa1112&theme=tokyonight&column=7&margin-w=10" />
-</p>
 
 ---
 
@@ -78,4 +89,4 @@
 
 ## ✨ Fun Fact
 
-> 💬 “Creativity is intelligence having fun.” — I love turning ideas into projects using code, AI, and innovation 💡
+> ☕ I love turning **coffee into code**, solving logic puzzles, and building things that make people go "**WOW**" 🌟
