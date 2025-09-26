@@ -1,3 +1,5 @@
+
+
 <!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/lerisa1112">
@@ -26,6 +28,10 @@
 ### 🔧 Backend Development
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+### 📱 App Development
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+
 ### 🗃️ Databases
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
@@ -34,7 +40,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
 ### ☁️ Cloud & DevOps
@@ -49,44 +55,3 @@
 ![Chrome DevTools](https://img.shields.io/badge/-DevTools-FABC05?style=flat&logo=google-chrome)
 
 ---
-
-## 📬 Reach Me At
-
-- 📧 Email: [lerisadesai@gmail.com](mailto:lerisadesai@gmail.com)
-- 💼 LinkedIn: [DESAI LERISA](https://linkedin.com/in/your-linkedin)
-
----
-
-## 🏆 Competitive Programming Profiles
-
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/d24amti4s0m/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MALng3dCKr/)
-
----
-
-## 📊 GitHub Status
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lerisa1112&show_icons=true&theme=tokyonight&count_private=true&hide=issues&custom_title=lerisa1112's%20GitHub%20Stats" width="48%" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lerisa1112&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerisa1112&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
-
-</div>
-
----
-
-## 🗓 GitHub Contribution Graph
-
-[![lerisa1112's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lerisa1112&theme=tokyo-night)](https://github.com/lerisa1112)
-
----
-
-## ✨ Fun Fact
-
-> ☕ I love turning **coffee into code**, solving logic puzzles, and building things that make people go "**WOW**" 🌟
