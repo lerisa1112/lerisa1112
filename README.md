@@ -92,4 +92,3 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p>
