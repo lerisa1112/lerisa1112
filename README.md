@@ -42,9 +42,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+
 ![Cloud Concepts](https://img.shields.io/badge/-Cloud_Concepts-007ACC?style=for-the-badge)
-![Infra Basics](https://img.shields.io/badge/-Infra_Basics-44CC11?style=for-the-badge)
+
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
